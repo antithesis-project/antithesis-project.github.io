@@ -1,0 +1,5 @@
+docs/vendor
+docs/_site/
+docs/.bundle/
+.bundle/
+Gemfile.lock

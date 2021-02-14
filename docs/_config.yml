@@ -1,0 +1,22 @@
+title: Antithesis Project
+email: trey@prognos.is
+description: Hello, world! The Antithesis Project is live!
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://antithes.is" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: AntithesisPRJ
+github_username: treyka
+
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
