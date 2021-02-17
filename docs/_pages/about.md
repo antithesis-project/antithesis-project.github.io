@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Who we are
-permalink: /who\_we\_are/
+title: About us
+permalink: /about
 ---
 
 We are a group of security practitioners from different roles trying to come together and solve issues that we ourselves find frustrating during our day jobs. The core group consists of:
