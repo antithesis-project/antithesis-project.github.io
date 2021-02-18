@@ -2,10 +2,9 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
+title: Welcome to the Antithesis Project!
 layout: home
 ---
-
-## Welcome to the Antithesis Project!
 
 CTI is currently failing. We believe that this is not due to the notion of CTI being fundamentally flawed. Indeed, we are deeply invested in CTI and believe that it has tremendous potential for good. But it is currently failing and we say, "Not on our watch!" If you would like to help, we invite you to join us. The Antithesis Project is about coordinating a course correction within the CTI community. This is not about debating the respective virtues and faults of various tools, data formats, etc. This is about having a higher-level meta conversation about CTI.
 
