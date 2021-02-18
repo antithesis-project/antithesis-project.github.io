@@ -1,4 +1,8 @@
-## Mission statement
+---
+layout: page
+title: The Project
+permalink: /project
+---
 
 * Improve the quality of the CTI shared in the community with
   * Guidance documentation for producers and consumers
