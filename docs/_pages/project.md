@@ -26,7 +26,7 @@ Another major aspect that is currently neglected is the lack of metrics on how t
 ## Who we’re trying to help
 
 The project aims to improve the situation for two main groups, which often end up overlapping: 
-Threat intel producers (tThreat iIntel producersproviders, Feed vendors, CSIRTs, etc)
+Threat intel producers (Threat Intel producers, Feed vendors, CSIRTs, etc)
 Threat intel consumers (SoCs, Threat analysts, Risk analysts, etc)
 
 ## Who we’d like to work with
