@@ -4,6 +4,7 @@ description: Hello, world! The Antithesis Project is live!
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://antithes.is" # the base hostname & protocol for your site, e.g. http://example.com
+paginate_path: "/blog/page:num"
 twitter_username: AntithesisPRJ
 github_username: antithesis-project
 
